@@ -1,0 +1,24 @@
+.course-name{
+    color: hsl(335, 92%, 57%);
+    font-size: 18px;
+}
+
+.course-price{
+    color:#090909 ;
+    font-size: 20px
+}
+
+.rate-icon i{
+    color:yellow ;
+    margin-right: 3px;
+}
+
+.cart-btn{
+    width: 150px;
+    height: 50px;
+    background-color: yellowgreen;
+    border: none;
+    border: 1px solid yellowgreen;
+    display: inline-block;
+    border-radius: 5px;
+}

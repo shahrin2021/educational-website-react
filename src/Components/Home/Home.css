@@ -1,0 +1,35 @@
+.banner-area{
+    background-image: url(../../images.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-title{
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 20px;
+    color:hsl(268, 82%, 51%) ;
+
+}
+.home-discription{
+    font-size: 16px;
+    color: #000000;
+}
+
+.home-subtitle{
+    font-size: 40px;
+    text-align: center;
+    margin: 60px;
+    color: hsl(286, 95%, 57%);
+}
+
+.home-btn{
+    font-size: 18px;
+    font-weight: 400;
+    
+}

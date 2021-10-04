@@ -1,0 +1,26 @@
+.service-area{
+    background-image: url(../../image/servise.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-area{
+    font-size: 60px;
+    color: #7102b6;
+    font-weight: 600;
+}
+ .service-title{
+     font-size: 30px;
+     color: green;
+ }
+
+ .servise-text-area{
+     margin: 60px;
+ }
+
+ 

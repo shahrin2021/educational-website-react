@@ -1,0 +1,15 @@
+.logo-area{
+    font-size: 36px;
+    color: #000000;
+    font-weight: 500;
+}
+
+.header-menu{
+    font-size: 20px;
+    font-weight: 500px;
+    color: black !important;
+}
+
+.header-area{
+    background-color: hsl(241, 93%, 84%);
+}
