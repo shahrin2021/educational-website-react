@@ -9,7 +9,7 @@ const Header = () => {
   <div className="container">
     <NavLink className='nav-link logo-area' to='/home'>FUTURE IT</NavLink>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
-      <span className="navbar-toggler-icon"><i class="uil uil-bars"></i></span>
+      <span ><i style={{fontSize:'30px'}} className="uil uil-bars"></i></span>
     </button>
     <div className="collapse navbar-collapse " id="navbarScroll">
       <ul className="navbar-nav  ms-auto my-lg-0 navbar-nav-scroll">

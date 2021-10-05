@@ -1,4 +1,4 @@
-/* footer mainn css */
+/* footer main css start*/
 
 .footer-area{
     background-color: hsl(6, 2%, 2%);
@@ -36,4 +36,18 @@ font-size: 14px;
 
 .footer-area{
     margin-top: 60px;
+}
+
+/* footer main css end  */
+
+/* media query  */
+
+@media(max-width:688px){
+    .footer-menu{
+        flex-direction: column;
+    }
+
+    .footer-title{
+        text-align: center;
+    }
 }

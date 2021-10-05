@@ -1,3 +1,4 @@
+/* home css start  */
 .course-name{
     color: hsl(335, 92%, 57%);
     font-size: 18px;
@@ -22,3 +23,6 @@
     display: inline-block;
     border-radius: 5px;
 }
+
+
+/* home css end */

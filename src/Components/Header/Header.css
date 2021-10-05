@@ -1,3 +1,4 @@
+/* header css start */
 .logo-area{
     font-size: 36px;
     color: #000000;
@@ -13,3 +14,5 @@
 .header-area{
     background-color: hsl(241, 93%, 84%);
 }
+
+/* header css end */

@@ -1,3 +1,5 @@
+/* services css start  */
+
 .service-area{
     background-image: url(../../image/servise.png);
     background-position: center;
@@ -22,5 +24,7 @@
  .servise-text-area{
      margin: 60px;
  }
+
+ /* services css end */
 
  
